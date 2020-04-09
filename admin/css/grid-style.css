@@ -1,0 +1,20 @@
+/*
+* Style for the gird's style in the backend
+*/
+.grid-stack-item-content{
+	/*border: 1px dashed #ccc;*/
+}
+.wpcg-wrap {
+	clear: both;
+	overflow: hidden;	
+}
+.wpcg-post {
+	min-width: 200px;
+	min-height: 120px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+/*	padding: 15px;*/
+	float: left;
+/*	margin: 0 0 10px 10px;*/
+}
